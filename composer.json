@@ -1,7 +1,7 @@
 {
     "name": "jooaziz/array-collection",
       "description": "This is a very cool package!",
-       "version": "1.0.0",
+       "version": "1.1.0",
        "type": "library",
        "keywords": ["array", "php", "object"],
        "homepage": "http://joeaziz.com",
