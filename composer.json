@@ -1,0 +1,23 @@
+{
+    "name": "jooaziz/array-collection",
+      "description": "This is a very cool package!",
+       "version": "1.0.0",
+       "type": "library",
+       "keywords": ["array", "php", "object"],
+       "homepage": "http://joeaziz.com",
+         "time": "2017-3-17",
+     "autoload": {
+        "psr-4": {
+            "Joeaziz\\ArrayCollection\\": "src/"
+                   }
+    },
+    "license": "MIT",
+     "authors": [
+        {
+            "name": "Yousif Aziz",
+            "email": "joaziz.g@gmail.com",
+            "homepage": "http://joeaziz.com",
+            "role": "Developer"
+        }
+    ]
+}
