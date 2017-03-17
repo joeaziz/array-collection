@@ -1,5 +1,7 @@
 <?php
 
+namespace Joeaziz\ArrayCollection;
+
 /*
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -18,8 +20,6 @@
  * <http://www.doctrine-project.org>.
  */
 
-namespace Joeaziz\ArrayCollection;
-
 /**
  * An ArrayCollection is a Collection implementation that wraps a regular PHP array.
  *
@@ -28,7 +28,7 @@ namespace Joeaziz\ArrayCollection;
  * @author  Jonathan Wage <jonwage@gmail.com>
  * @author  Roman Borschel <roman@code-factory.org>
  */
-class ArrayCollection implements Collection, Selectable {
+class ArrayCollection {
 
     /**
      * An array containing the entries of this collection.
